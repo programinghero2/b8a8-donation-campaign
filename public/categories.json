@@ -1,0 +1,148 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/RHxMdqy/health.jpg",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_color": "#0052ff33",
+      "card_color": "#0052ff26",
+      "cart_text_color": "#0052FF",
+      "description": 
+      "Clean water for children is an essential humanitarian goal. Access to safe and clean drinking water is a fundamental right that can prevent waterborne diseases, ensure healthy growth, and improve the quality of life for children worldwide. Providing clean water initiatives not only saves lives but also empowers children to thrive, learn, and dream of a brighter future.",
+      "price": 299
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/rpjnZcq/education.jpg",
+      "title": "Good education",
+      "category": "Education",
+      "category_color": "#ff444b33",
+      "card_color": "#ff444a26",
+      "cart_text_color": "#FF444A",
+      "description": 
+      "A good education is a transformative journey that equips individuals with knowledge, critical thinking skills, and values. It encourages personal growth, innovation, and adaptability while fostering character development and a global perspective. Inclusivity, community engagement, and measurable outcomes are also crucial components, ensuring equitable access to quality education and lifelong learning.",
+      "price": 249
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/f8Rpx7Y/clothes.jpg",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_color": "#79c23f33",
+      "card_color": "#79c23f26",
+      "cart_text_color": "#79C23F",
+      "description": 
+      "A used clothing drive is a compassionate community effort that collects and redistributes gently-worn clothing to those in need. These initiatives promote sustainability, support vulnerable populations, and encourage the recycling of clothing items. By participating in a clothing drive, individuals can make a meaningful impact on the lives of others while reducing textile waste and promoting a culture of giving.",
+      "price": 349
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/RTRxN85/food.jpg",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_color": "#f8714733",
+      "card_color": "#f8714726",
+      "cart_text_color": "#F87147",
+      "description": 
+      "Better food for everyone is a mission to revolutionize our food system. It seeks to provide healthier, more sustainable, and accessible food options that nourish both people and the planet. This movement prioritizes nutritional quality, ethical sourcing, and affordability, aiming to improve the well-being of individuals and create a more equitable, sustainable food landscape for all.",
+      "price": 299
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/RTRxN85/food.jpg",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_color": "#f8714733",
+        "card_color": "#f8714726",
+        "cart_text_color": "#F87147",
+        "description": 
+        "Better food for everyone is a mission to revolutionize our food system. It seeks to provide healthier, more sustainable, and accessible food options that nourish both people and the planet. This movement prioritizes nutritional quality, ethical sourcing, and affordability, aiming to improve the well-being of individuals and create a more equitable, sustainable food landscape for all.",
+        "price": 299
+      },
+      {
+        "id": 6,
+        "img": "https://i.ibb.co/f8Rpx7Y/clothes.jpg",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_color": "#79c23f33",
+        "card_color": "#79c23f26",
+        "cart_text_color": "#79C23F",
+        "description": 
+        "A used clothing drive is a compassionate community effort that collects and redistributes gently-worn clothing to those in need. These initiatives promote sustainability, support vulnerable populations, and encourage the recycling of clothing items. By participating in a clothing drive, individuals can make a meaningful impact on the lives of others while reducing textile waste and promoting a culture of giving.",
+        "price": 399
+      },
+      {
+        "id": 7,
+        "img": "https://i.ibb.co/rpjnZcq/education.jpg",
+        "title": "Good education",
+        "category": "Education",
+        "category_color": "#ff444b33",
+        "card_color": "#ff444a26",
+        "cart_text_color": "#FF444A",
+        "description": 
+        "A good education is a transformative journey that equips individuals with knowledge, critical thinking skills, and values. It encourages personal growth, innovation, and adaptability while fostering character development and a global perspective. Inclusivity, community engagement, and measurable outcomes are also crucial components, ensuring equitable access to quality education and lifelong learning.",
+        "price": 229
+      },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/RHxMdqy/health.jpg",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_color": "#0052ff33",
+      "card_color": "#0052ff26",
+      "cart_text_color": "#0052FF",
+      "description": 
+      "Clean water for children is an essential humanitarian goal. Access to safe and clean drinking water is a fundamental right that can prevent waterborne diseases, ensure healthy growth, and improve the quality of life for children worldwide. Providing clean water initiatives not only saves lives but also empowers children to thrive, learn, and dream of a brighter future.",
+      "price": 349
+    },
+    
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/RHxMdqy/health.jpg",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_color": "#0052ff33",
+      "card_color": "#0052ff26",
+      "cart_text_color": "#0052FF",
+      "description": 
+      "Clean water for children is an essential humanitarian goal. Access to safe and clean drinking water is a fundamental right that can prevent waterborne diseases, ensure healthy growth, and improve the quality of life for children worldwide. Providing clean water initiatives not only saves lives but also empowers children to thrive, learn, and dream of a brighter future.",
+      "price": 249
+    },
+    {
+      "id": 10,
+      "img": "https://i.ibb.co/rpjnZcq/education.jpg",
+      "title": "Good education",
+      "category": "Education",
+      "category_color": "#ff444b33",
+      "card_color": "#ff444a26",
+      "cart_text_color": "#FF444A",
+      "description": 
+      "A good education is a transformative journey that equips individuals with knowledge, critical thinking skills, and values. It encourages personal growth, innovation, and adaptability while fostering character development and a global perspective. Inclusivity, community engagement, and measurable outcomes are also crucial components, ensuring equitable access to quality education and lifelong learning.",
+      "price": 279
+    },
+    {
+      "id": 11,
+      "img": "https://i.ibb.co/f8Rpx7Y/clothes.jpg",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_color": "#79c23f33",
+      "card_color": "#79c23f26",
+      "cart_text_color": "#79C23F",
+      "description": 
+      "A used clothing drive is a compassionate community effort that collects and redistributes gently-worn clothing to those in need. These initiatives promote sustainability, support vulnerable populations, and encourage the recycling of clothing items. By participating in a clothing drive, individuals can make a meaningful impact on the lives of others while reducing textile waste and promoting a culture of giving.",
+      "price": 249
+    },
+    {
+      "id": 12,
+      "img": "https://i.ibb.co/RTRxN85/food.jpg",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_color": "#f8714733",
+      "card_color": "#f8714726",
+      "cart_text_color": "#F87147",
+      "description": 
+      "Better food for everyone is a mission to revolutionize our food system. It seeks to provide healthier, more sustainable, and accessible food options that nourish both people and the planet. This movement prioritizes nutritional quality, ethical sourcing, and affordability, aiming to improve the well-being of individuals and create a more equitable, sustainable food landscape for all.",
+      "price": 299
+    }
+  ]
+  
